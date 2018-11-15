@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/Chess.Solution/Chess/bin/Debug/netcoreapp1.1/Chess.deps.json
+/Users/Guest/Desktop/Chess.Solution/Chess/bin/Debug/netcoreapp1.1/Chess.dll
+/Users/Guest/Desktop/Chess.Solution/Chess/bin/Debug/netcoreapp1.1/Chess.pdb
+/Users/Guest/Desktop/Chess.Solution/Chess/obj/Debug/netcoreapp1.1/Chess.AssemblyInfo.cs
+/Users/Guest/Desktop/Chess.Solution/Chess/obj/Debug/netcoreapp1.1/Chess.dll
+/Users/Guest/Desktop/Chess.Solution/Chess/obj/Debug/netcoreapp1.1/Chess.pdb
